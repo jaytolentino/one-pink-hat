@@ -2,4 +2,4 @@ One Pink Hat
 ============
 A simple Django-based blog
 
-"One pink hat in a see of black and white"
+"One pink hat in a sea of black and white"
